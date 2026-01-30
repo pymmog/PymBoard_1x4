@@ -1,0 +1,23 @@
+{
+    "name": "PymBoard 1x4",
+    "vendorId": "0x5845",
+    "productId": "0x4D50",
+    "matrix": {
+        "rows": 1,
+        "cols": 4
+    },
+    "layouts": {
+        "keymap": [
+            [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                "0,0",
+                "0,1",
+                "0,2",
+                "0,3"
+            ]
+        ]
+    }
+}
