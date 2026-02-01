@@ -31,6 +31,10 @@ A 4-key macropad using the Seeed XIAO RP2040 with VIAL support.
 
 **Note:** Connect one terminal of each switch to the GPIO pin and the other terminal to GND.
 
+## 3D Printed Case
+
+The case for this project is a 3D printed enclosure designed by **[@CopyRited](https://www.github.com/CopyRited)** on **[Printables](https://www.printables.com/@CopyRited)**.
+
 ## Installation
 
 ### Pre-compiled Firmware (Recommended)
