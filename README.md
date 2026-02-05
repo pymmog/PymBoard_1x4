@@ -14,8 +14,6 @@
                          ╚═╝╚═╝  ╚═╝     ╚═╝
 ```
 
-# PymBoard 1x4 - VIAL Firmware
-
 A 4-key macropad using the Seeed XIAO RP2040 with VIAL support.
 
 **Website:** https://pymmog.com
@@ -28,6 +26,8 @@ A 4-key macropad using the Seeed XIAO RP2040 with VIAL support.
 | 2   | GP2      | D8 / MISO      |
 | 3   | GP4      | D10 / CS       |
 | 4   | GP3      | D9 / MOSI      |
+
+<img width="2178" height="873" alt="Image" src="https://github.com/user-attachments/assets/09a9de56-1b5e-4301-b923-fd0e8e227156" />
 
 **Note:** Connect one terminal of each switch to the GPIO pin and the other terminal to GND.
 
@@ -81,6 +81,8 @@ If you prefer to build the firmware yourself:
 3. The XIAO will automatically reboot with the new firmware
 
 ## Using VIAL
+
+<img width="1127" height="768" alt="Image" src="https://github.com/user-attachments/assets/3e8427c9-9d38-4d18-97fb-af6b80414904" />
 
 1. Download VIAL from https://get.vial.today
 2. Connect your macropad
