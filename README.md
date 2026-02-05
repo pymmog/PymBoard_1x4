@@ -84,7 +84,7 @@ If you prefer to build the firmware yourself:
 
 <img alt="vial.rocks interface" src="https://github.com/user-attachments/assets/3e8427c9-9d38-4d18-97fb-af6b80414904" />
 
-1. Download VIAL from https://get.vial.today
+1. Download VIAL from https://get.vial.today or open https://vial.rocks
 2. Connect your macropad
 3. VIAL should automatically detect the keyboard
 4. Customize your keys, macros, and layers!
