@@ -27,7 +27,7 @@ A 4-key macropad using the Seeed XIAO RP2040 with VIAL support.
 | 3   | GP4      | D10 / CS       |
 | 4   | GP3      | D9 / MOSI      |
 
-<img width="2178" height="873" alt="Image" src="https://github.com/user-attachments/assets/09a9de56-1b5e-4301-b923-fd0e8e227156" />
+<img alt="wirering schematics" src="https://github.com/user-attachments/assets/bd8abab6-0b44-4aca-a377-e78391ad5156" />
 
 **Note:** Connect one terminal of each switch to the GPIO pin and the other terminal to GND.
 
@@ -82,7 +82,7 @@ If you prefer to build the firmware yourself:
 
 ## Using VIAL
 
-<img width="1127" height="768" alt="Image" src="https://github.com/user-attachments/assets/3e8427c9-9d38-4d18-97fb-af6b80414904" />
+<img alt="vial.rocks interface" src="https://github.com/user-attachments/assets/3e8427c9-9d38-4d18-97fb-af6b80414904" />
 
 1. Download VIAL from https://get.vial.today
 2. Connect your macropad
