@@ -16,6 +16,8 @@
 
 A 4-key macropad using the Seeed XIAO RP2040 with VIAL support.
 
+![Image](https://github.com/user-attachments/assets/d60e903e-f52c-4d8b-b37f-ceaa18f873cb)
+
 **Website:** https://pymmog.com
 
 ## Pinout
